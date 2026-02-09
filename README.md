@@ -1,16 +1,20 @@
-## Hi there 👋
+## Olá! Eu sou Angelo 👋
 
-<!--
-**angelo-devP/angelo-devP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Suporte na **Vigo Tecnologia**  
+🚀 Programador **Python, Java e PHP**  
+🗄️ Experiência com **MySQL**  
+🤖 Foco em **Java para FRC**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Atualmente
+- Projetos de automação e sistemas  
+- Backend com Java, Python e PHP  
+
+### 💬 Pergunte-me sobre
+- Java, Python, PHP  
+- MySQL e lógica de programação  
+
+📫 GitHub: https://github.com/angelo-devP  
+
+⚡ Apaixonado por tecnologia e desafios!
